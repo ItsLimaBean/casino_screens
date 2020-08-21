@@ -11,7 +11,7 @@ local inCasino = false
 local interiorId = 275201
 
 local targetName = "casinoscreen_01"
-local targetModel = 1800987616
+local targetModel = `vw_vwint01_video_overlay`
 
 local textureDict = "Prop_Screen_Vinewood"
 local textureName = "BG_Wall_Colour_4x4"
